@@ -12,4 +12,6 @@ huggingface_hub
 torch
 transformers
 sentence-transformers
+peft
+trl
 -e .
